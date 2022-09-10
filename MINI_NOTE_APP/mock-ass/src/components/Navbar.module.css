@@ -1,0 +1,19 @@
+.nav{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 25px;
+    color:white;
+   
+    background-color:black;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.page{
+    margin: 0 20px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    background-color:black;
+
+}
